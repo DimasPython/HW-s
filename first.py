@@ -5,3 +5,4 @@ dimas = "dimas"
 print(dimas)
 
 print("newmsg")
+print("jfjfd")
