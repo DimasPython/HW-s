@@ -1,2 +1,5 @@
 n = 1 + 2
 print(n)
+
+dimas = "dimas"
+print(dimas)
