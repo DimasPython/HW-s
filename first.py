@@ -3,3 +3,5 @@ print(n)
 
 dimas = "dimas"
 print(dimas)
+
+print("newmsg")
