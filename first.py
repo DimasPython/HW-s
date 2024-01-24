@@ -5,4 +5,5 @@ dimas = "dimas"
 print(dimas)
 
 print("newmsg")
-print("jfjfd")
+print("jfjfd") 
+n =43
